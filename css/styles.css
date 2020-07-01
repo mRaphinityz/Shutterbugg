@@ -1,0 +1,60 @@
+/* Shutterbugg Bootstrap Project*/
+
+.container {
+	max-width: 968px;
+}
+
+.main {
+	background-image: url("../images/intro.jpg");
+	background-size: cover;
+	height: 560px;
+	background-attachment: fixed;
+	padding-top: 35px;
+}
+
+.main h1 {
+	font-family: 'MuseoModerno', cursive;
+	font-size: 3.5em;
+	text-shadow: tomato 4px 2px 2px;
+}
+
+.main h2 {
+	font-family: 'Podkova', serif;
+	font-size: 2em;
+	text-shadow: tomato 3px 1px 1px;
+}
+
+.btn {
+	background-color: tomato
+	font-size: 1.5em;
+	color: white;
+	border-radius: 30px;
+	padding: 5px 25px;
+}
+
+section.row {
+	padding-top: 50px;
+}
+
+.row h1 {
+	font-family: 'Salsa', cursive;
+}
+
+.row p {
+	font-family: 'Salsa', cursive;
+	font-size: 2em;
+}
+
+#store {
+	text-align: center;
+	padding-right: 30px;
+	border-bottom: 1px solid black;
+}
+
+footer.h1 {
+	font-size: 2em;
+}
+
+.footer ul {
+	
+}
